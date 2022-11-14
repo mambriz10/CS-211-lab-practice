@@ -4,11 +4,11 @@
 
 
 int main () {
-   int n;
+   
 
-   printf("Before sorting the list is: \n");
+   printf("First change of repository\n");
   
-   printf("\nAfter sorting the list is: \n");
+   
 
   
    return(0);
